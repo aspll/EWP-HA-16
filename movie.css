@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana;
+    margin-top: 50px;
+}
+
+#explanation {
+  font-family: "Lucida Calligraphy";
+    font-size: 20px;
+    line-height: 120%;
+    color: goldenrod;
+}
+
+#favmovie {
+    margin-top: 30px;
+    background-color: goldenrod;
+    font-size: larger;
+    margin-left: 640px;
+}
+
+#movietable {
+    padding-top: 30px;
+
+}
